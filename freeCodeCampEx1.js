@@ -2,8 +2,8 @@
 
 //1- Constructing Strings with Variables
 
-const myName = "Prisicla";
-const myStr = "My name is " + myName + " and I am well!";
+const myName = "Priscila";
+const myStr = console.log(`My name is ${myName} and I am well!`);
 
 //2- Appending Variables to Strings
 
